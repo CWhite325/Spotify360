@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F0D54870-E582-4501-93BA-38705BD90541}</ProjectGuid>
     <RootNamespace>PowerHour</RootNamespace>
+    <ProjectName>Spotify360</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -62,12 +63,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CXBOXController.cpp" />
-    <ClCompile Include="GUI.cpp" />
-    <ClCompile Include="PowerHour.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\PLAYPAUSE.py" />
-    <None Include="Debug\NEXT.py" />
+    <ClCompile Include="Spotify360.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CXBOXController.h" />

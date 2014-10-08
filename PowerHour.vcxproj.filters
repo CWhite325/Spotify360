@@ -15,23 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PowerHour.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="CXBOXController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GUI.cpp">
+    <ClCompile Include="Spotify360.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\PLAYPAUSE.py">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="Debug\NEXT.py">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CXBOXController.h">
