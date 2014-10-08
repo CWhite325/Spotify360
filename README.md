@@ -13,7 +13,7 @@ Can spin up the program at any time!
 4. Can also count a score of one every minute, a counter for a PowerHour of sorts
 
 
-Needs some of refactor love.
+Needs some refactor love.
 Could also use a GUI.
 
 
